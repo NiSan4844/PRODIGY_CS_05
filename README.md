@@ -1,5 +1,5 @@
 
-# Packet Sniffer Tool
+# Network Packet Analyzer
 
 A simple packet sniffer tool built using Python and the Scapy library. This tool captures and analyzes network packets, displaying relevant information such as source and destination IP addresses, protocols, and payload data. The tool is intended for educational purposes and should be used ethically.
 
