@@ -9,7 +9,6 @@ A simple packet sniffer tool built using Python and the Scapy library. This tool
 - [Usage](#usage)
 - [Features](#features)
 - [Future Improvements](#future-improvements)
-- [License](#license)
 
 ## Overview
 
